@@ -347,4 +347,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Phạm Quyền Quý - Trường PTDTBT Tiểu học Kiên Đài - ĐT: 097 1986 343</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Phạm Quyền Quý - Trường PTDTBT Tiểu học Kiên Đài - ĐT: 0965 935 992</div>", unsafe_allow_html=True)
